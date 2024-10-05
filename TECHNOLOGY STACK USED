@@ -1,0 +1,7 @@
+Technology Stack Used
+Frontend Technologies
+React.js: A JavaScript library for building user interfaces, allowing for the creation of reusable UI components and managing application state effectively.
+Redux: A state management library for JavaScript applications, used to manage the application's state and facilitate communication between components.
+React Router: A routing library for React that enables navigation among different components and pages within the application.
+CSS3 & HTML5: Standard technologies for styling and structuring the web application, providing a responsive and visually appealing design.
+Tailwind CSS: A utility-first CSS framework for designing custom user interfaces efficiently without writing a lot of custom CSS.
